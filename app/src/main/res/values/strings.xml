@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CampusPosts</string>
+    <string name="comments">"Comments: %d"</string>
+    <string name="likes">"Likes: %d"</string>
+    <string name="address_email">Address email:</string>
+    <string name="password">Password:</string>
+    <string name="log_in">LOG IN</string>
+</resources>
